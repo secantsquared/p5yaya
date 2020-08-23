@@ -1,0 +1,20 @@
+{
+  "name": "p5yaya",
+  "scripts": {
+    "start": "parcel -p 4000 ./src/index.html"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.0.5"
+  },
+  "dependencies": {
+    "p5": "^1.1.9",
+    "three": "^0.119.1"
+  }
+}
